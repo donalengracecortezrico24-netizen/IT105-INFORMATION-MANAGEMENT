@@ -2,7 +2,6 @@
 
 ## Student Information
 **Name:** Donalen Grace C. Rico
-
 **Course & Year:** BSIS-2A  
 
 ## Course Information
